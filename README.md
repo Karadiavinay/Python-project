@@ -6,3 +6,6 @@ Python Projects
 		pdf extractor
 		pdf to image converter
 		pythonMagick
+
+	List all packages intall by pip command
+	sudo -H pip freeze
